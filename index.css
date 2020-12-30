@@ -8,6 +8,10 @@ h1{
     text-align: center;
 }
 
+.button_wrapper{
+   text-align:center;
+}
+
 .subtitle{
     background-color: #cdf5ff;
 }
