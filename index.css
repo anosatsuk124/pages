@@ -3,3 +3,15 @@ body{
 font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Hiragino Sans", "Hiragino Kaku Gothic Pro", "Yu Gothic", YuGothic, Meiryo, "Helvetica Neue", sans-serif;
 background-color: #fdfaff;
 }
+
+h1{
+    text-align: center;
+}
+
+.subtitle{
+    background-color: #cdf5ff;
+}
+
+.viterumscolor{
+    background-color: #ffdbff;
+}
